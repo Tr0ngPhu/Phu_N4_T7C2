@@ -68,4 +68,4 @@ Back-end sẽ chạy ở địa chỉ http://localhost:{port}
 
 - Hồ Quang Long (@hoquanglong10): Front-end, UI/UX
 
--Phạm Trung Hải (@): Front-end, UI/UX, Data Visualization, Refinements
+- Phạm Trung Hải (@): Front-end, UI/UX, Data Visualization, Refinements
