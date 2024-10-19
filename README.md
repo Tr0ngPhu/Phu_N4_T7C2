@@ -61,19 +61,11 @@ npm start
 Back-end sẽ chạy ở địa chỉ http://localhost:{port}
 ```
 ## Các thành viên cùng nhóm
-Nhóm 4
-Vũ Trọng Phú (@Tr0ngPhu)
+### Nhóm 4
+- Vũ Trọng Phú (@Tr0ngPhu): System Design, Back-end, Front-end, UI/UX, React Router, WebSocket features, Upload, State, Refinements, Requirements, State, Data Processing, Tables & Filters, Profile, Refinements
 
-System Design, Back-end, Front-end, UI/UX, React Router, WebSocket features, Upload, State, Refinements, , Requirements, State, Data Processing, , State, Data Processing, Tables & Filters, Profile, Refinements
+- Lê Gia Thuận (@GiaThuanM): System Design, Front-end, UI/UX
 
-Lê Gia Thuận (@GiaThuanM)
+- Hồ Quang Long (@hoquanglong10): Front-end, UI/UX
 
-System Design, Front-end, UI/UX
-
-Hồ Quang Long (@anhbomx13)
-
-Front-end, UI/UX
-
-Phạm Trung Hải (@)
-
-Front-end, UI/UX, Data Visualization, Refinements
+-Phạm Trung Hải (@): Front-end, UI/UX, Data Visualization, Refinements
