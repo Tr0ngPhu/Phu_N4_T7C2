@@ -1,6 +1,6 @@
 # 👋 Xin chào! Tôi là Vũ Trọng Phú.
 ## Mục lục
-1. [Thông tin liên hệ](thong-tin-lien-he)
+1. [Thông tin liên hệ]([thong-tin-lien-he](https://github.com/Tr0ngPhu/Phu_N4_T7C2/blob/main/README.md#th%C3%B4ng-tin-li%C3%AAn-h%E1%BB%87))
 2. [Giới thiệu](gioi-thieu)
 3. [Mục tiêu](muc-tieu)
 4. [Dự án đang thực hiện](du-an-dang-thuc-hien)
