@@ -62,10 +62,10 @@ Back-end sẽ chạy ở địa chỉ http://localhost:{port}
 ```
 ## Các thành viên cùng nhóm
 ### Nhóm 4
-- Vũ Trọng Phú (@Tr0ngPhu): System Design, Back-end, Front-end, UI/UX, React Router, WebSocket features, Upload, State, Refinements, Requirements, State, Data Processing, Tables & Filters, Profile, Refinements
+- Vũ Trọng Phú (@Tr0ngPhu): System Design, Back-end, Front-end, UI/UX, React Router, WebSocket features, Upload, State, Refinements, Tables & Filters, Profile, Refinements
 
 - Lê Gia Thuận (@GiaThuanM): System Design, Front-end, UI/UX
 
-- Hồ Quang Long (@hoquanglong10): Front-end, UI/UX
+- Hồ Quang Long (@hoquanglong10): Front-end, UI/UX, Requirements, State, Data Processing
 
 - Phạm Trung Hải (@): Front-end, UI/UX, Data Visualization, Refinements
