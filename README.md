@@ -1,12 +1,12 @@
 # 👋 Xin chào! Tôi là Vũ Trọng Phú.
-Mục lục
-1. Thông tin liên hệ
-2. Giới thiệu
-3. Mục tiêu
-4. Dự án đang thực hiện
-5. Công nghệ thường dùng
-6. Cài đặt
-7. Các thành viên cùng nhóm
+## Mục lục
+1. [Thông tin liên hệ](thong-tin-lien-he)
+2. [Giới thiệu](gioi-thieu)
+3. [Mục tiêu](muc-tieu)
+4. [Dự án đang thực hiện](du-an-dang-thuc-hien)
+5. [Công nghệ thường dùng](cong-nghe-thuong-dung)
+6. [Cài đặt](cai-dat)
+7. [Các thành viên cùng nhóm](cac-thanh-vien-cung-nhom)
 
 ## Thông tin liên hệ
 - 📧 Email: troqphu13@gmail.com -- Nếu bạn muốn trao đổi hoặc hợp tác, đừng ngần ngại liên hệ với tôi qua email
