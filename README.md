@@ -40,5 +40,40 @@ Tôi là một sinh viên học lập trình có niềm đam mê  lớn về
 
 - Ngôn ngữ: JavaScript, HTML, CSS
 
+## Cài đặt
+1. Tải mã nguồn từ repo này
+Yêu cầu cài sẵn Node.js và MongoDB trên hệ điều hành (Đã khởi động sẵn)
 
+2. Chuẩn bị 2 Terminal/PowerShell CLI, cd đến gốc của source code và gõ lệnh sau:
+Client terminal
 
+```
+cd client
+npm install
+npm start
+Front-end sẽ chạy ở địa chỉ http://localhost:{port} 
+```
+Server terminal
+```
+cd server
+npm install
+npm start
+Back-end sẽ chạy ở địa chỉ http://localhost:{port}
+```
+## Các thành viên cùng nhóm
+Nhóm 4
+Vũ Trọng Phú (@Tr0ngPhu)
+
+System Design, Back-end, Front-end, UI/UX, React Router, WebSocket features, Upload, State, Refinements, , Requirements, State, Data Processing, , State, Data Processing, Tables & Filters, Profile, Refinements
+
+Lê Gia Thuận (@GiaThuanM)
+
+System Design, Front-end, UI/UX
+
+Hồ Quang Long (@anhbomx13)
+
+Front-end, UI/UX
+
+Phạm Trung Hải (@)
+
+Front-end, UI/UX, Data Visualization, Refinements
