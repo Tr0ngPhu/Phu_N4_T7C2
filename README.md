@@ -45,15 +45,15 @@ Tôi là một sinh viên học lập trình có niềm đam mê  lớn về
 Yêu cầu cài sẵn Node.js và MongoDB trên hệ điều hành (Đã khởi động sẵn)
 
 2. Chuẩn bị 2 Terminal/PowerShell CLI, cd đến gốc của source code và gõ lệnh sau:
-Client terminal
 
+- Client terminal
 ```
 cd client
 npm install
 npm start
 Front-end sẽ chạy ở địa chỉ http://localhost:{port} 
 ```
-Server terminal
+- Server terminal
 ```
 cd server
 npm install
