@@ -1,4 +1,12 @@
 # 👋 Xin chào! Tôi là Vũ Trọng Phú.
+Mục lục
+1. Thông tin liên hệ
+2. Giới thiệu
+3. Mục tiêu
+4. Dự án đang thực hiện
+5. Công nghệ thường dùng
+6. Cài đặt
+7. Các thành viên cùng nhóm
 
 ## Thông tin liên hệ
 - 📧 Email: troqphu13@gmail.com -- Nếu bạn muốn trao đổi hoặc hợp tác, đừng ngần ngại liên hệ với tôi qua email
